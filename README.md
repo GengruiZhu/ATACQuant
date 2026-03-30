@@ -164,6 +164,6 @@ Manuscript in preparation. Please check back for the citation once the paper is 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/GengruiZhu/ATACQuant/blob/main/LICENSE) file for details.
-
-Copyright (c) 2026 Yi Chen & Gengrui Zhu
+This project is licensed under a **Non-Commercial Research License**.  
+Free to use for academic and research purposes only. Commercial use is strictly prohibited.  
+See the [LICENSE](./LICENSE) file for details.
