@@ -1,0 +1,16 @@
+name: atacquant
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.8
+  - biopython>=1.79
+  - pysam>=0.19
+  - bowtie2>=2.4
+  - samtools>=1.15
+  - bedtools>=2.30
+  - sambamba>=0.8
+  - deeptools>=3.5
+  - macs2>=2.2
+  - pip
