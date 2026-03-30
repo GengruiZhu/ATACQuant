@@ -163,5 +163,6 @@ Manuscript in preparation. Please check back for the citation once the paper is 
 ---
 
 ## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-MIT © 2025 Yi Chen, Gengrui Zhu
+Copyright (c) 2026 Yi Chen & Gengrui Zhu
